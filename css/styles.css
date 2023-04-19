@@ -46,16 +46,29 @@
   color: #f4f4fd;
 }
 button {
-    color: #FFFFFF;
-    background-color: #2e2f42;
+  color: #ffffff;
+  background-color: #2e2f42;
 }
 .button.primary {
-    color: #FFFFFF;
-    background-color: #4d5ae5;
+  color: #ffffff;
+  background-color: #4d5ae5;
+}
+.button.primary:hover,
+.button.primary:focus {
+    color: #ffffff;
+  background-color: #404BBF;
 }
 .button.secondary {
-    color: #4d5ae5;
-    background-color: #f4f4fd;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+}
+.button.secondary:hover,
+.button.secondary:focus {
+    color: #ffffff;
+    background-color: #404BBF;
+}
+.pointer {
+    cursor: pointer;;
 }
 /* колір основного тексту #2E2F42 */
 /* колір меншого тексту #434455 */
