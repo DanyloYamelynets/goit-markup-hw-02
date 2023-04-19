@@ -35,11 +35,14 @@
   background-color: #2e2f42;
 }
 .section-title,
-.section-list {
+.list {
   color: #2e2f42;
 }
 .section-description {
   color: #434455;
+}
+.section-team {
+    background-color: #F4F4FD;
 }
 .footer-description,
 .logo-footer {
