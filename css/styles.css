@@ -1,0 +1,66 @@
+.page {
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+.logo {
+  color: #2e2f42;
+}
+.logo-blue {
+  color: #4d5ae5;
+}
+.list {
+  list-style: none;
+}
+/* site nav */
+.site-nav a {
+  color: #2e2f42;
+}
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #404bbf;
+}
+}
+/* contacts */
+.contacts a {
+  color: #434455;
+}
+.contacts .link:hover,
+.contacts .link:focus {
+  color: #404bbf;
+}
+.hero-title {
+  color: #ffffff;
+}
+.hero,
+.footer {
+  background-color: #2e2f42;
+}
+.section-title,
+.section-list {
+  color: #2e2f42;
+}
+.section-description {
+  color: #434455;
+}
+.footer-description,
+.logo-footer {
+  color: #f4f4fd;
+}
+button {
+    color: #FFFFFF;
+    background-color: #2e2f42;
+}
+.button.primary {
+    color: #FFFFFF;
+    background-color: #4d5ae5;
+}
+.button.secondary {
+    color: #4d5ae5;
+    background-color: #f4f4fd;
+}
+/* колір основного тексту #2E2F42 */
+/* колір меншого тексту #434455 */
+/* білий колір #FFFFFF */
+/* синій з вебстудіо і тексту кнопок фільтру #4D5AE5 */
+/* фон кнопок фільтру при наведенні #404BBF */
+/* фон кнопок фільтру без наведення і текст футера #F4F4FD */
