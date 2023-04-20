@@ -7,7 +7,7 @@
   --accent-hover-color: #404bbf;
 }
 body {
-  color: var(--primary-text-color);
+  color: var(--secondary-text-color);
   background-color: var(--primary-white-color);
 
   font-family: Roboto, sans-serif;
@@ -40,6 +40,9 @@ body {
   line-height: 1.17;
   text-transform: uppercase;
 }
+.link {
+    text-decoration: none;
+}
 .list {
   list-style: none;
 }
@@ -55,14 +58,15 @@ body {
   color: var(--accent-hover-color);
 }
 /* contacts */
-.contacts a {
+.address a {
   color: var(--secondary-text-color);
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
 }
-.contacts .link:hover,
-.contacts .link:focus {
+.address .link:hover,
+.address .link:focus {
   color: var(--accent-hover-color);
 }
 .hero-title {
@@ -109,6 +113,9 @@ body {
 }
 .section-team {
   background-color: var(--secondary-white-color);
+}
+.section-workers {
+    background-color: #ffffff;
 }
 .footer-description {
   color: var(--secondary-white-color);
