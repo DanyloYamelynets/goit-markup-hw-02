@@ -21,7 +21,7 @@ body {
 /* фон кнопок фільтру без наведення і текст футера #F4F4FD */
 
 .logo {
-  color: var(--primary-text-color);
+  color: var(--accent-color);
   font-family: Raleway, sans-serif;
   letter-spacing: 0.03em;
 
@@ -30,8 +30,8 @@ body {
   line-height: 1.17;
   text-transform: uppercase;
 }
-.logo-blue {
-  color: var(--accent-color);
+.logo-primary {
+  color: var(--primary-text-color);
   font-family: Raleway, sans-serif;
   letter-spacing: 0.03em;
 
