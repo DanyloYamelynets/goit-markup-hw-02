@@ -77,7 +77,7 @@ body {
   text-align: center;
 }
 .hero,
-.footer {
+.page-footer {
   background-color: var(--primary-text-color);
 }
 .section-title {
