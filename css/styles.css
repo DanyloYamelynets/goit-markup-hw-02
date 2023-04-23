@@ -19,6 +19,7 @@ body {
 /* фон кнопок фільтру при наведенні #404BBF */
 /* фон кнопок фільтру без наведення і текст футера #F4F4FD */
 
+/* Логотипи */
 .logo {
   color: var(--accent-color);
   font-family: Raleway, sans-serif;
@@ -75,6 +76,7 @@ body {
 .address .link:focus {
   color: var(--accent-hover-color);
 }
+/* Герой */
 .hero-title {
   color: var(--primary-white-color);
   font-weight: 700;
@@ -87,6 +89,7 @@ body {
 .page-footer {
   background-color: var(--primary-text-color);
 }
+/* Секції */
 .section-title {
   color: var(--primary-text-color);
   font-weight: 700;
@@ -103,14 +106,12 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-
 .section-description {
   color: var(--secondary-text-color);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
 }
-
 .centre {
   text-align: center;
 }
@@ -127,13 +128,14 @@ body {
 .section-workers {
     background-color: #ffffff;
 }
+/* Футер */
 .footer-description {
   color: var(--secondary-white-color);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
 }
-
+/* Кнопки */
 button {
   color: var(--primary-white-color);
   background-color: var(--primary-text-color);
