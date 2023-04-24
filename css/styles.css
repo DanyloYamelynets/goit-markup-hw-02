@@ -48,7 +48,7 @@ body {
   text-transform: uppercase;
 }
 .link {
-    text-decoration: none;
+  text-decoration: none;
 }
 .list {
   list-style: none;
@@ -65,7 +65,7 @@ body {
   color: var(--accent-hover-color);
 }
 /* contacts */
-.address a{
+.address a {
   color: var(--secondary-text-color);
   font-style: normal;
   font-weight: 400;
@@ -126,7 +126,7 @@ body {
   background-color: var(--secondary-white-color);
 }
 .section-workers {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 /* Футер */
 .footer-description {
