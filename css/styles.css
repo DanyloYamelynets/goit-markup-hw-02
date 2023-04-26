@@ -53,6 +53,7 @@ body {
 .list {
   list-style: none;
 }
+
 /* site nav */
 .site-nav a {
   color: var(--primary-text-color);
@@ -64,6 +65,7 @@ body {
 .site-nav a:focus {
   color: var(--accent-hover-color);
 }
+
 /* contacts */
 .address a {
   color: var(--secondary-text-color);
